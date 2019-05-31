@@ -11,3 +11,4 @@ add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/../formatter_lib ${CMAKE_CURRENT_BI
 target_include_directories(formatter_ex PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
 
 target_link_libraries(formatter_ex formatter)
+ 
